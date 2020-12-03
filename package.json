@@ -1,5 +1,5 @@
 {
-  "name": "Electro-tomato",
+  "name": "electro-tomato",
   "version": "1.0.0",
   "description": "A tomato timer built with Electron",
   "main": "index.js",
