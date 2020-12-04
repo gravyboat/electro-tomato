@@ -1,10 +1,11 @@
 import React from 'react';
 import './app.scss';
+import { Timers } from './views/tomatoTimer';
 
 export const App = () => {
     return (
         <div className="app">
-            <h1>I'm React running in Electron App!!</h1>
+            <Timers></Timers>
         </div>
     );
 };
